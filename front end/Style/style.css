@@ -1,0 +1,15 @@
+div{
+    
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(2, 95, 156, 0.945);
+    color: white;
+    width: 80%;
+
+}
+
+h1 {
+    text-align: center;
+}
